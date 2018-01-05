@@ -16,6 +16,7 @@
   "optionalDependencies": {
     "acl-knex": "^0.2.3",
     "@sphinx-software/fusion-knex": "^0.1",
-    "@sphinx-software/fusion-mongodb": "^0.1"
+    "@sphinx-software/fusion-mongodb": "^0.1",
+    "@sphinx-software/fusion-redis": "^0.1"
   }
 }
