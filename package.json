@@ -2,6 +2,7 @@
   "name": "@sphinx-software/fusion",
   "version": "0.1.0",
   "description": "ACL package for fusion",
+  "repository": "https://github.com/sphinx-software/acl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
