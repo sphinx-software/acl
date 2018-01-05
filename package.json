@@ -1,0 +1,18 @@
+{
+  "name": "@sphinx-software/fusion",
+  "version": "0.1.0",
+  "description": "ACL package for fusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rikky <son.levuthai@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "acl": "^0.4.11",
+    "verror": "^1.10.0"
+  },
+  "optionalDependencies": {
+    "acl-knex": "^0.2.3"
+  }
+}
