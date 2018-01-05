@@ -1,6 +1,6 @@
 {
   "name": "@sphinx-software/acl",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "description": "ACL package for fusion",
   "repository": "https://github.com/sphinx-software/acl",
   "main": "index.js",
